@@ -10,7 +10,7 @@ local molecular fragments are extracted and encoded into discrete tokens using a
 the denoised masked tokens. Masked regions of the scaffold are progressively refined through partial discrete diffusion, while protein-ligand binding interactions are further incorporated 
 via an energy-based gradient guidance mechanism during the denoising process. 
 
-![RePaintMol Framework Illustration](rapaintmol.jpg)
+![RePaintMol Framework Illustration](repaintmol.jpg)
 
 ## Project Structure
 
