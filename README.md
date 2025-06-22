@@ -71,7 +71,7 @@ python train.py
 ### Sampling/Inference
 
 ```bash
-python sample.py -n 3 -pdb_path data/pocket.pdb
+python sample.py -n 1000 -pdb_path data/pocket.pdb
 ```
 - `-n`: Number of molecules to generate
 - `-pdb_path`: Path to the input pocket PDB file
